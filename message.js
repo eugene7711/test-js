@@ -1,4 +1,5 @@
 function msg()
-    {  
-    alert("Hello Javascript");  
+    { 
+    let now = new Date(); 
+    alert( now );  
     }  
